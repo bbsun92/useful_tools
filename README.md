@@ -1,7 +1,7 @@
 # useful_tools
 Miscellaneous collection of useful tools
 
-- make_dir.py:
+- ***make_dir.py***:
 Creates a structured project folder with the structure, can be adjusted as required:
 ```bash
 ├── admin
