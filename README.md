@@ -3,7 +3,7 @@ Miscellaneous collection of useful tools
 
 ##make_dir.py
 Creates a structured project folder with the structure:
-
+```bash
 ├── admin
 │   ├── drafts
 │   ├── external
@@ -17,3 +17,4 @@ Creates a structured project folder with the structure:
 └── dissemination
     ├── presentations
     └── reports
+```
